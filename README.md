@@ -45,27 +45,24 @@ This site features the following developmental domains:
 4. Feature 4 : A grayed out link for visited pages for better navigational experience.
 
 #### Features Left to Implement
-5. Feature 5 : A video intro (self intro video) of JK (similar to college/uni application video).
-6. Feature 6 : PDF download for a summary of JK's portfolio which will include school's documentation. DSA schools require result slips of End-of-Year Examination from previous year. (current existing link is functional but will download a sample pdf instead of his portfolio pdf)
-7. Feature 7 : Contact me - email form for request of references.
-(current existing link opens a google form request)
+5. Feature 5 : PDF download for a summary of my portfolio which will include school's documentation. DSA schools require result slips of End-of-Year Examination from previous year. (current existing link is functional but will download a sample pdf instead of his portfolio pdf)
 
 
 ## Technologies Used
 1. HTML 5.0
     * For the consruction of a user centric front-end webpage
-2. Bootstrap 4.0 Cascading Style Sheet
+2. Bootstrap 5.0 Cascading Style Sheet
     * To simplify flexbox grid layout structure to be responsive according to viewport sizes.
     * Button classes
-4. Google Forms [https://docs.google.com/forms](https://docs.google.com/forms)
-    * Support for contact-me form
-5. Gimp 2.10 [https://www.gimp.org/](https://www.gimp.org/)
+3. Jqueary
+    * Navigation bar
+4. Gimp 2.10 [https://www.gimp.org/](https://www.gimp.org/)
     * Image manipulation - cropping and adding transparency to icon created with keynote icons.
 
 
 ## Testing
 
-The demo link via [Github Pages](https://suipingooi.github.io/jkdev/) was sent to JK's grandparents and extended family for testing outside of Singapore. This was done for the following reasons:
+The demo link via [Github Pages](https://yaushing.github.io/portfolio/) was sent to JK's grandparents and extended family for testing outside of Singapore. This was done for the following reasons:
 1. JK's grandparents have not visited since the Covid19 lockdown and this demo site allows for them to catch up on his development in the past year.
 2. They are also aged with limited IT experience which allows a guage on intuitive UI/UX ability whilst on a variety of devices (ipad, iphone, samsung mobile and huawei mobile) 
 3. Their location in Malaysia with possibly slower internet connection also allows a check on media capability.
@@ -80,6 +77,7 @@ Suggestions were taken into account and amendments made.
 
 Visted links does not gray out on mobile (specifically iphone11). A check was also done on two(2) samsung phones running chrome as well as macbook pro running safari - no issues found with change in color for visted links for these devices. Further testing required.
 
+The navigation bar on the Achievement Page will not open or close. The navigation bar on the Music page will not close.
 
 ## Deployment
 
@@ -94,6 +92,7 @@ A demo of this development is deployed on Github Pages. Deployment was uneventfu
     * font-family: 'Montserrat', sans-serif
 4. Color Chart from [https://color.adobe.com/create](https://color.adobe.com/create)
 3. Keynote - icons library
+4. Icons from [https://fontawesome.com/icons/](https://fontawesome.com/icons/)
 
 #### Media
 1. Spartan Logo retrieved from [Spartan Kids](https://www.spartan.com/products/spartan-kids-vinyl-sticker?variant=1165456736281) on 10 Nov 2020.
@@ -102,7 +101,8 @@ A demo of this development is deployed on Github Pages. Deployment was uneventfu
 
 #### Acknowledgements
 
-JK logo designed and produced by *Kaytrinh Kam*
+Old JK logo designed and produced by *Kaytrinh Kam*
+Version 1.23.500 and onwards JK logo designed and produced by *Yaushing Kam*
 
 Testing of demo site on Github Pages:
 
@@ -110,6 +110,7 @@ Testing of demo site on Github Pages:
 
 * Ms. Helen Tan - VP, Singapore Primary School
 * Mr. Kam KahKen - Advisor, IvyPrep
+* Mrs. Suiping Ooi
 * Mr. Ooi Kok Jin 
 
 **Malaysia**

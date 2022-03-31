@@ -1,0 +1,2 @@
+**Version 1.23.500**
+*First update after being forked from [My mother's project](https://github.com/suipingooi/jkdev), Added navbar, jquery.js, bootstrap.min.js.map, bootstrao.min.css.map, and changed logo*

@@ -14,7 +14,7 @@ body {
     margin: 0 auto;
 }
 #jklogo {
-    max-width: 90px;
+    width: 50px;
 }
 /* page intro & quotes */
 .intro {

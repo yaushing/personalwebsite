@@ -8,16 +8,34 @@
         <meta name="description" content="JK's Portfolio">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="https://fonts.googleapis.com/css2?family=Eczar&family=Montserrat&display=swap" rel="stylesheet"> 
-        <link rel="stylesheet" href="css/bootstrap.min.css">
-        <link href="css/jkstyle.css" rel="stylesheet" type="text/css">
+        <script src="https://kit.fontawesome.com/8ab6929af4.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link href="assets/css/jkstyle.css" rel="stylesheet" type="text/css">
         <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-        <script src="js/bootstrap.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/jquery.js"></script>
     </head>
     <body>
-        <nav class="nav justify-content-center navbar">
-            <a href="index.html">
-                <img id="jklogo" src="images/jklogo.png" alt="JK logo">
-            </a>
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="index.html">
+                    <img id="jklogo" src="images/jklogo.png" alt="i am jamie kam" />
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                    </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <a class="nav-link"href="index.html">Home</a>
+                        <a class="nav-link" href="physical.html">My Sport</a>
+                        <a class="nav-link" href="cognitive.html">My forte</a>
+                        <a class="nav-link active" aria-current="page" href="aesthetic.html"><i class="fa-solid fa-music"></i> My niche</a>
+                        <a class="nav-link" href="achieve.html">Achievements</a>
+                        <div class="nav-link">================</div> 
+                        <div class="nav-link">Version: 1.23.500</div>
+                    </div>
+                </div>
+            </div>
         </nav>
         <div class="jumbotron jumbotron-fluid intro">
             <div class="container intro">
@@ -72,7 +90,7 @@
             <div class="row">
                 <div class="col">
                     <a href="index.html" title="I am JK">
-                        <img class="icon" src="images/jklogo.png" alt="I am JK"><br>WHO AM I?
+                        <i class="fa-solid fa-house"><br>WHO AM I?</i>
                     </a>
                 </div>
                 <div class="col" title="A Logician">
@@ -92,6 +110,8 @@
                 </div>
             </div>
         </div>
-        <footer class="intro footer"> Copyright &copy; 2020 JKDEV. All rights reserved.</footer>
+        <footer class="intro footer"> Copyright &copy; 2022 JKPORTFOLIO. All rights reserved.</footer>
+        <script src="assets/js/jquery.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
     </body>
 </html>
