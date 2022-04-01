@@ -101,8 +101,8 @@ A demo of this development is deployed on Github Pages. Deployment was uneventfu
 
 #### Acknowledgements
 
-Old JK logo designed and produced by *Kaytrinh Kam*
-Version 1.23.500 and onwards JK logo designed and produced by *Yaushing Kam*
+* Old JK logo designed and produced by *Kaytrinh Kam*
+* Version 1.23.500 and onwards JK logo designed and produced by *Yaushing Kam*
 
 Testing of demo site on Github Pages:
 
