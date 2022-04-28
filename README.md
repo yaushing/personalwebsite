@@ -25,7 +25,7 @@ Extensive use of Grey and Orange across the platform to convey a clean message o
 ![Font Gylps](images/core/fontgylps.png)
 Eczar, serif and Montserrat, san-serif were selected as font-pair that is simple and modern yet suggestive of heritage.
 
-A demo of the site can be found here [https://suipingooi.github.io/jkdev/](https://suipingooi.github.io/jkdev/)
+A demo of the site can be found [here](https://suipingooi.github.io/jkdev/)
 
 ## Features
 
@@ -46,6 +46,7 @@ This site features the following developmental domains:
 
 #### Features Left to Implement
 5. Feature 5 : PDF download for a summary of my portfolio which will include school's documentation. DSA schools require result slips of End-of-Year Examination from previous year. (current existing link is functional but will download a sample pdf instead of his portfolio pdf)
+6. More pages: news, home
 
 
 ## Technologies Used
