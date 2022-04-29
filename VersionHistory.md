@@ -4,5 +4,5 @@
 **Version 1.24.500**
 *Replaced all my Sport with my sport, upgraded bootstrap 4 to bootstrap 5*
 
-**Version 1.26.500**
-*Changed Portfolio to an entire personal website, changed copyrights*
+**Version 1.50.500**
+*Changed Portfolio to an entire personal website, changed copyrights, changed cognitive to have games without chess. Made color scheme a bit more "Professional"*

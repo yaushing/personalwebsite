@@ -78,8 +78,6 @@ Suggestions were taken into account and amendments made.
 
 Visted links does not gray out on mobile (specifically iphone11). A check was also done on two(2) samsung phones running chrome as well as macbook pro running safari - no issues found with change in color for visted links for these devices. Further testing required.
 
-The navigation bar on the Achievement Page will not open or close. The navigation bar on the Music page will not close.
-
 ## Deployment
 
 A demo of this development is deployed on Github Pages. Deployment was uneventful.
@@ -99,11 +97,13 @@ A demo of this development is deployed on Github Pages. Deployment was uneventfu
 1. Spartan Logo retrieved from [Spartan Kids](https://www.spartan.com/products/spartan-kids-vinyl-sticker?variant=1165456736281) on 10 Nov 2020.
 2. Strava Logo retrieved from [Strava Press](blog.strava.com/press/assets) on 17 Nov 2020.
 3. Scratch Logo retrieved from [Scratch](https://scratch.mit.edu/) on 18 Nov 2020.
+4. Shadow of the Tomb Raider Definitive Edition (2019) release cover retrived from [IGDB](https://www.igdb.com/games/shadow-of-the-tomb-raider-definitive-edition) on 29 April 2022.
+5. StarCraft II (2010) races photo retrived from [Battle.net](https://starcraft2.com/en-us/game) on 29 April 2022.
+6. Age of Empires IV (2021) logo retrived from [Wikipedia](https://en.wikipedia.org/wiki/Age_of_Empires_IV) on 19 April 2022.
 
 #### Acknowledgements
 
-* Old JK logo designed and produced by *Kaytrinh Kam*
-* Version 1.23.500 and onwards JK logo designed and produced by *Yaushing Kam*
+* JK logo designed and produced by *Kaytrinh Kam*
 
 Testing of demo site on Github Pages:
 
