@@ -6,3 +6,6 @@
 
 **Version 1.50.500**
 *Changed Portfolio to an entire personal website, changed copyrights, changed cognitive to have games without chess. Made color scheme a bit more "Professional"*
+
+**Version 1.51.500**
+*Removed pdf, removed experimental page, added anchors to cna and cnn in news.*

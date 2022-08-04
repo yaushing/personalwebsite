@@ -85,7 +85,7 @@ a {
     text-decoration: none;
 }
 a:visited {
-    color: gray;
+    color: darkgrey;
 }
 a:hover {
     color: white;
